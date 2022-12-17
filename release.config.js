@@ -38,7 +38,7 @@ const config = {
     [
       "@semantic-release/git",
       {
-        assets: ["CHANGELOG_FILE"],
+        assets: ["CHANGELOG.md"],
       },
     ],
   ],
