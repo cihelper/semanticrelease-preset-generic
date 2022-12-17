@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/cihelper/preset-semanticrelease-githubaction/compare/v1.0.0...v1.0.1) (2022-12-17)
+
+
+### Bug Fixes
+
+* add plugin semantic-release-major-tag ([b987134](https://github.com/cihelper/preset-semanticrelease-githubaction/commit/b987134415c392f2a0efb59849b6910b8dae7c9d))
+
 ## 1.0.0 (2022-12-17)
 
 
