@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/cihelper/preset-semanticrelease-githubaction/compare/v1.0.1...v1.0.2) (2022-12-17)
+
+
+### Bug Fixes
+
+* changelog file not specified ([eb49e06](https://github.com/cihelper/preset-semanticrelease-githubaction/commit/eb49e0653809a864501c89f8089befd2f4961db6))
+
 ## [1.0.1](https://github.com/cihelper/preset-semanticrelease-githubaction/compare/v1.0.0...v1.0.1) (2022-12-17)
 
 
