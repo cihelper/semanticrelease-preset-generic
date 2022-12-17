@@ -34,6 +34,7 @@ const config = {
         // failComment: false,
       },
     ],
+    ["semantic-release-major-tag", {}],
     [
       "@semantic-release/git",
       {
