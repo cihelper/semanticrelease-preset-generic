@@ -34,7 +34,12 @@ const config = {
         // failComment: false,
       },
     ],
-    ["semantic-release-major-tag", {}],
+    [
+      "semantic-release-major-tag",
+      {
+        customTags: ["v${major}", "v${major}.${minor}"],
+      },
+    ],
     [
       "@semantic-release/git",
       {
