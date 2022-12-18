@@ -1,5 +1,5 @@
 {
-  "name": "@cihelper/preset-semanticrelease-githubaction",
+  "name": "@cihelper/semanticrelease-preset-githubaction",
   "version": "1.1.0",
   "description": "Semantic Release configuration for GitHub actions",
   "main": "release.config.js",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cihelper/preset-semanticrelease-githubaction.git"
+    "url": "git+https://github.com/cihelper/semanticrelease-preset-githubaction.git"
   },
   "keywords": [
     "semantic-release-config",
@@ -18,9 +18,9 @@
   "author": "Mirko Lenz <mirko@mirkolenz.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cihelper/preset-semanticrelease-githubaction/issues"
+    "url": "https://github.com/cihelper/semanticrelease-preset-githubaction/issues"
   },
-  "homepage": "https://github.com/cihelper/preset-semanticrelease-githubaction#README",
+  "homepage": "https://github.com/cihelper/semanticrelease-preset-githubaction#README",
   "dependencies": {
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/exec": "^6.0.3",
@@ -30,9 +30,9 @@
     "semantic-release-major-tag": "^0.2.1"
   },
   "devDependencies": {
-    "@cihelper/preset-semanticrelease-npm": "^1.0.0"
+    "@cihelper/semanticrelease-preset-npm": "^1.0.0"
   },
   "release": {
-    "extends": "@cihelper/preset-semanticrelease-npm"
+    "extends": "@cihelper/semanticrelease-preset-npm"
   }
 }
