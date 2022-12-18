@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.1](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.1.0...v1.1.1) (2022-12-18)
+
+
+### Bug Fixes
+
+* loosen version constraints ([0873738](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/087373895c24dc181ab0c8087dd4d1f665acbc7b))
+* rename packages ([83fce1f](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/83fce1f2c1793d2060aab5c0f004856337692b2a))
+* update lockfile ([ad13ae2](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/ad13ae2dffe6cfa291967fce51c50d2c0da68506))
+
 ## [1.1.0](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.0.2...v1.1.0) (2022-12-18)
 
 ### Features
