@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cihelper/preset-semanticrelease-githubaction/compare/v1.0.2...v1.1.0) (2022-12-18)
+
+
+### Features
+
+* tag minor version as well ([7b48b41](https://github.com/cihelper/preset-semanticrelease-githubaction/commit/7b48b415c79f61fa4dd1de01a04eb7b4d42b3fbb))
+
 ## [1.0.2](https://github.com/cihelper/preset-semanticrelease-githubaction/compare/v1.0.1...v1.0.2) (2022-12-17)
 
 
