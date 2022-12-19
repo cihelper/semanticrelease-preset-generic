@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.1.1...v1.2.0) (2022-12-19)
+
+
+### Features
+
+* add action.yml to releaase assets ([5789f1b](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/5789f1b5a589691d0b1fe51029bfa61c4db6ccd4))
+
+
+### Bug Fixes
+
+* hide fail comment on github ([23ce324](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/23ce324becb7f3ed7f2f3fec503dd8253ab6d913))
+* remove dev branch ([3e124f9](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/3e124f91ab8499961fa1e063c92e9de83405e0e1))
+
 ## [1.1.1](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.1.0...v1.1.1) (2022-12-18)
 
 
