@@ -31,7 +31,7 @@ const config = {
       "@semantic-release/github",
       {
         // assets: [{ path: "action.yml", label: "action" }],
-        // failComment: false,
+        failComment: false,
       },
     ],
     [
