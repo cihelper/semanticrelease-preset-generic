@@ -32,6 +32,7 @@ const config = {
       {
         assets: [{ path: "action.yml", label: "action" }],
         failComment: false,
+        addReleases: "bottom",
       },
     ],
     [
