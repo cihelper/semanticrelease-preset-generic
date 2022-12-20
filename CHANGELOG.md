@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.2.0...v1.3.0) (2022-12-20)
+
+
+### Features
+
+* add links to github releases ([252ea01](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/252ea011d17c55d2e831a628755cd733cf121f7a))
+
 ## [1.2.0](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.1.1...v1.2.0) (2022-12-19)
 
 
