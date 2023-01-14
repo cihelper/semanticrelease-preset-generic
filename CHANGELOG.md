@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.3.1...v1.3.2) (2023-01-14)
+
+
+### Bug Fixes
+
+* add dev branch to config ([05b3eef](https://github.com/cihelper/semanticrelease-preset-githubaction/commit/05b3eef989a951f8d43fdea3d747c5885e0454dd))
+
 ## [1.3.1](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.3.0...v1.3.1) (2022-12-24)
 
 
