@@ -1,3 +1,3 @@
-# CI Preset for Semantic Release with Poetry
+# CI Preset for Semantic Release
 
-A shareable semantic-release configuration for GitHub actions.
+A shareable semantic-release configuration for generic repos.
