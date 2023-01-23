@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.3.2...v1.4.0) (2023-01-23)
+
+
+### Features
+
+* refactor for generic repos ([77d52bd](https://github.com/cihelper/semanticrelease-preset-generic/commit/77d52bd1e795310f2c6038b599e591e56f199662))
+
 ## [1.3.2](https://github.com/cihelper/semanticrelease-preset-githubaction/compare/v1.3.1...v1.3.2) (2023-01-14)
 
 
