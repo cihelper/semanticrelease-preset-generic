@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.4.0...v1.4.1) (2023-02-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency semantic-release-major-tag to ^0.3.0 ([#3](https://github.com/cihelper/semanticrelease-preset-generic/issues/3)) ([bc4bf24](https://github.com/cihelper/semanticrelease-preset-generic/commit/bc4bf24e6acbf7f2532c7a85e323ab4a7accdb6b))
+
 ## [1.4.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.3.2...v1.4.0) (2023-01-23)
 
 
