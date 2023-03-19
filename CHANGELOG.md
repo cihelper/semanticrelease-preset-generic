@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.4.1...v1.4.2) (2023-03-19)
+
+
+### Bug Fixes
+
+* remove success comment from github ([9573b25](https://github.com/cihelper/semanticrelease-preset-generic/commit/9573b25b396b5d4451fe9423682d5469e2d425da))
+
 ## [1.4.1](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.4.0...v1.4.1) (2023-02-24)
 
 

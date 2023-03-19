@@ -1,6 +1,6 @@
 {
   "name": "@cihelper/semanticrelease-preset-generic",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Semantic Release configuration for generic repos",
   "main": "release.config.js",
   "files": [
