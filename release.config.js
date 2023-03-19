@@ -31,6 +31,7 @@ const config = {
       "@semantic-release/github",
       {
         failComment: false,
+        successComment: false,
         addReleases: "bottom",
       },
     ],
