@@ -1,3 +1,4 @@
+const VERSION_FILE = process.env.VERSION_FILE;
 const config = {
   // https://semantic-release.gitbook.io/semantic-release/usage/workflow-configuration
   branches: [
@@ -27,6 +28,12 @@ const config = {
         changelogTitle: "# Changelog",
       },
     ],
+    VERSION_FILE && [
+      "@semantic-release/exec",
+      {
+        prepareCmd: `echo -n \${nextRelease.version} > ${VERSION_FILE}`,
+      },
+    ],
     [
       "@semantic-release/github",
       {
@@ -48,7 +55,7 @@ const config = {
         assets: ["CHANGELOG.md"],
       },
     ],
-  ],
+  ].filter((x) => x !== undefined),
 };
 
 module.exports = config;
