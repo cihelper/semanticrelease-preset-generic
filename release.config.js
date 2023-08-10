@@ -1,4 +1,5 @@
 const VERSION_FILE = process.env.VERSION_FILE;
+const MAJOR_TAG = process.env.MAJOR_TAG;
 const config = {
   // https://semantic-release.gitbook.io/semantic-release/usage/workflow-configuration
   branches: [
@@ -42,7 +43,7 @@ const config = {
         addReleases: "bottom",
       },
     ],
-    [
+    MAJOR_TAG === "true" && [
       "semantic-release-major-tag",
       {
         customTags: ["v${major}", "v${major}.${minor}"],
