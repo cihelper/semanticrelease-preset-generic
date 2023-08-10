@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.4.2...v1.5.0) (2023-08-10)
+
+
+### Features
+
+* allow writing the new version to a file ([a480656](https://github.com/cihelper/semanticrelease-preset-generic/commit/a4806565913ccb835d4b2573c1cb006d5a5638d0))
+* make adding the major tag optional ([5a0000c](https://github.com/cihelper/semanticrelease-preset-generic/commit/5a0000c0b37b16a6d8acbaa71e7094a62d011436))
+
 ## [1.4.2](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.4.1...v1.4.2) (2023-03-19)
 
 
