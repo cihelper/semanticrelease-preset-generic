@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.5.0...v1.5.1) (2023-08-10)
+
+
+### Bug Fixes
+
+* make major tag mandatory again due to bugs ([faecab9](https://github.com/cihelper/semanticrelease-preset-generic/commit/faecab9d5fa125f9ad10de24f9a3f7d8567cc7db))
+
 ## [1.5.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.4.2...v1.5.0) (2023-08-10)
 
 
