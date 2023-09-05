@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.2](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.5.1...v1.5.2) (2023-09-05)
+
+
+### Bug Fixes
+
+* prepareCmd is required ([99fa408](https://github.com/cihelper/semanticrelease-preset-generic/commit/99fa4089225e468f594763f819ef9eac95bd396a))
+
 ## [1.5.1](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.5.0...v1.5.1) (2023-08-10)
 
 
