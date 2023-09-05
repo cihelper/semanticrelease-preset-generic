@@ -31,8 +31,9 @@ const config = {
     [
       "@semantic-release/exec",
       {
-        prepareCmd:
-          VERSION_FILE && `echo -n \${nextRelease.version} > ${VERSION_FILE}`,
+        prepareCmd: VERSION_FILE
+          ? `echo -n \${nextRelease.version} > ${VERSION_FILE}`
+          : ":",
       },
     ],
     [
