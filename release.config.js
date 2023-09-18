@@ -1,6 +1,6 @@
 const VERSION_FILE = process.env.VERSION_FILE;
 
-export default {
+module.exports = {
   // https://semantic-release.gitbook.io/semantic-release/usage/workflow-configuration
   branches: [
     { name: "main" },
