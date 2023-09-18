@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.6.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.5.2...v1.6.0) (2023-09-18)
+
+
+### Features
+
+* switch to es module ([8c51783](https://github.com/cihelper/semanticrelease-preset-generic/commit/8c517838f3c405e18bfabb30e990dfc64abdf4a6))
+
+
+### Bug Fixes
+
+* bump deps ([d4fb21c](https://github.com/cihelper/semanticrelease-preset-generic/commit/d4fb21c48b8c3e9cf668d2ad2cea889dc4a92431))
+* switch to commonjs module again ([0f1d7fb](https://github.com/cihelper/semanticrelease-preset-generic/commit/0f1d7fb392cc191045fde4fce74b8a087de7e2e3))
+
 ## [1.5.2](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.5.1...v1.5.2) (2023-09-05)
 
 
