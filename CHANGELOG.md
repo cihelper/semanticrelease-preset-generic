@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.0...v1.6.1) (2023-09-22)
+
+
+### Bug Fixes
+
+* use semantic-release v21 ([a1d0ee0](https://github.com/cihelper/semanticrelease-preset-generic/commit/a1d0ee02a27d1bec4cae9edf4836374a74c0baf4))
+
 ## [1.6.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.5.2...v1.6.0) (2023-09-18)
 
 
