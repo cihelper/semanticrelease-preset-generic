@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.5](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.4...v1.6.5) (2024-01-29)
+
+
+### Bug Fixes
+
+* adjust module export for .releaserc.js ([4ac7d9f](https://github.com/cihelper/semanticrelease-preset-generic/commit/4ac7d9fd1086e05ced37e9c2074c4a3501fbbed9))
+* move release.config.js to .releaserc.js ([285fcea](https://github.com/cihelper/semanticrelease-preset-generic/commit/285fcea543f9d97e20cbdf365fce9a039b327750))
+
 ## [1.6.4](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.3...v1.6.4) (2024-01-29)
 
 
