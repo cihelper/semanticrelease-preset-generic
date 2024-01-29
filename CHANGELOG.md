@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.3](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.2...v1.6.3) (2024-01-29)
+
+
+### Bug Fixes
+
+* **deps:** bump to semantic-release v23 and move config ([ba1a997](https://github.com/cihelper/semanticrelease-preset-generic/commit/ba1a997c151ab150c8b74e6f74d4cd3047da5023))
+
 ## [1.6.2](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.1...v1.6.2) (2023-09-23)
 
 
