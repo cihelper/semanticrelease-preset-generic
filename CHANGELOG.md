@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.4](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.3...v1.6.4) (2024-01-29)
+
+
+### Bug Fixes
+
+* correctly export new config location ([06c5b83](https://github.com/cihelper/semanticrelease-preset-generic/commit/06c5b839c128360d10d0245f091022654c6abe68))
+
 ## [1.6.3](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.2...v1.6.3) (2024-01-29)
 
 
