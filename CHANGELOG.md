@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.5...v1.7.0) (2024-11-07)
+
+
+### Features
+
+* **deps:** bump semantic-release to v24 ([4279951](https://github.com/cihelper/semanticrelease-preset-generic/commit/42799515fff54a093ca53879bc84fdad7e42c6a2))
+
 ## [1.6.5](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.6.4...v1.6.5) (2024-01-29)
 
 
