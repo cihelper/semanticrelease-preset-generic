@@ -15,12 +15,23 @@ module.exports = {
       "@semantic-release/commit-analyzer",
       {
         preset: "conventionalcommits",
+        parserOpts: {
+          noteKeywords: ["BREAKING CHANGE", "BREAKING-CHANGE"],
+        },
       },
     ],
     [
       "@semantic-release/release-notes-generator",
       {
         preset: "conventionalcommits",
+        parserOpts: {
+          noteKeywords: [
+            "BREAKING CHANGE",
+            "BREAKING-CHANGE",
+            "NOTABLE CHANGE",
+            "NOTABLE-CHANGE",
+          ],
+        },
       },
     ],
     [
