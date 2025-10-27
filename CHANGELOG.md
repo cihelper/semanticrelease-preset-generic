@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.1](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.8.0...v1.8.1) (2025-10-27)
+
+### Bug Fixes
+
+* trigger release ([7b861d7](https://github.com/cihelper/semanticrelease-preset-generic/commit/7b861d7d7621755599a411d88b21badf9c2f796a))
+* update deps ([9d1b715](https://github.com/cihelper/semanticrelease-preset-generic/commit/9d1b715e718438edf3f94fbd62f5f94b71521b0e))
+
 ## [1.8.0](https://github.com/cihelper/semanticrelease-preset-generic/compare/v1.7.0...v1.8.0) (2025-02-02)
 
 
